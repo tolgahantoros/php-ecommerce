@@ -1,0 +1,39 @@
+RewriteEngine on
+
+#RewriteCond %{SERVER_PORT} 80 
+#RewriteRule ^(.*)$ https://www.luxsaatler.com/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} ^tolgahantoros.com.tr [NC]
+RewriteRule ^(.*)$ https://www.tolgahantoros.com.tr/$1 [L,R=301,NC]
+
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?tolgahantoros\.com\.tr
+RewriteRule ^(.*)$ https://www.tolgahantoros.com.tr/$1 [R,L]
+
+
+RewriteRule ^blog$ blog.php [NC,L]
+#Seo url oluşturma
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+
+#404 hata sayfası yönlendirme kodu
+ErrorDocument 404 localhost/scriptpanel/404
+
+
+
+RewriteRule ^blog/([0-9a-zA-Z-_]+)  blog-detay.php?icerik=$1 [L,QSA]
+
+
+#urun-detay sayfası seo url 2 parametre alıyor. kategori adı ürün sef url
+
+RewriteRule ^([0-9a-zA-Z-_]+)/([0-9a-zA-Z-_]+)$  urun-detay.php?kategori=$1&urun=$2 [L,QSA]  
+RewriteRule ^([0-9a-zA-Z-_]+)$  shop.php?kategori=$1 [L,QSA] 
+
+
+
+
+
+
+RewriteRule ^bize-ulasin$ iletisim.php [NC,L]
+RewriteRule ^sitemap.xml$ sitemap.php [NC,L]

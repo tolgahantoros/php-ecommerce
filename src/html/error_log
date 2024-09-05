@@ -1,0 +1,480 @@
+[09-Jan-2024 20:54:32 Europe/Minsk] PHP Warning:  unlink(../dimg/settings/Array): No such file or directory in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 54
+[09-Jan-2024 21:01:58 Europe/Minsk] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sonseshaber/tolgahantoros.com.tr/src/html/resimgaleri.php on line 71
+[10-Jan-2024 12:56:56 Europe/Minsk] PHP Fatal error:  Cannot redeclare _clean() (previously declared in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php:113) in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 113
+[10-Jan-2024 13:02:07 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 82
+[10-Jan-2024 13:02:40 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 82
+[01-Feb-2024 15:45:19 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 88
+[01-Feb-2024 15:45:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 53
+[01-Feb-2024 15:45:52 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 53
+[01-Feb-2024 15:46:50 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 53
+[01-Feb-2024 15:47:42 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:47:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:48:17 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:48:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:48:49 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:48:51 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:49:39 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:49:40 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:49:42 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 54
+[01-Feb-2024 15:50:33 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:50:33 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:50:33 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:50:37 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:50:40 Europe/Minsk] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:51:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:51:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:51:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:51:33 Europe/Minsk] PHP Fatal error:  Cannot redeclare _clean() (previously declared in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php:113) in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 113
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:51:41 Europe/Minsk] PHP Fatal error:  Cannot redeclare _clean() (previously declared in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php:113) in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 113
+[01-Feb-2024 15:52:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:52:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:52:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:52:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:52:43 Europe/Minsk] PHP Fatal error:  Cannot redeclare _clean() (previously declared in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php:113) in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 113
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:52:45 Europe/Minsk] PHP Fatal error:  Cannot redeclare _clean() (previously declared in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php:113) in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 113
+[01-Feb-2024 15:55:55 Europe/Minsk] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:55:56 Europe/Minsk] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:56:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:56:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:56:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:56:22 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined method crud::prepare() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:56:25 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined method crud::prepare() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:57:17 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:57:17 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:57:22 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:57:22 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:57:42 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:57:42 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:57:42 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:57:43 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined method crud::prepare() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:57:48 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:57:48 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:57:48 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:58:49 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 15:58:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:58:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:58:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:59:00 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined method crud::prepare() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:59:03 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to undefined method crud::prepare() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 15:59:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:59:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:59:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 15:59:58 Europe/Minsk] PHP Fatal error:  Uncaught Error: Cannot access private property crud::$db in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:00:00 Europe/Minsk] PHP Fatal error:  Uncaught Error: Cannot access private property crud::$db in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 58
+[01-Feb-2024 16:00:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:00:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:00:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 16:00:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:01:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:01:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:01:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 16:02:32 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:03:07 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:03:07 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:03:07 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 16:03:08 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  Undefined index: urun_stok in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 59
+[01-Feb-2024 16:04:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:05:09 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:05:09 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:05:09 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:05:10 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:05:10 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:05:10 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:13:59 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 60
+[01-Feb-2024 16:14:11 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 60
+[01-Feb-2024 16:14:30 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:14:31 Europe/Minsk] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:14:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:14:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:14:57 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:14:59 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:16:17 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:16:17 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:16:17 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:16:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:16:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:16:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:16:20 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:17:40 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:17:40 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:17:40 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:17:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:18:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:18:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:18:41 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 16:18:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:31:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:31:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:31:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:31:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:31:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:31:46 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 18:31:53 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:33:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:33:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:33:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[01-Feb-2024 18:33:31 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[01-Feb-2024 18:40:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[01-Feb-2024 18:40:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[01-Feb-2024 18:40:24 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:17:52 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:17:52 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:17:52 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:18:34 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:18:34 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:18:34 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[02-Feb-2024 13:18:43 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[02-Feb-2024 13:31:35 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[02-Feb-2024 13:48:00 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:56:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:56:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:56:14 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 99
+[02-Feb-2024 13:56:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 61
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Warning:  Invalid argument supplied for foreach() in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 99
+[02-Feb-2024 13:56:25 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 13:59:30 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 13:59:30 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 13:59:30 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 14:00:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 14:00:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 14:00:14 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/sidebar.php on line 3
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 119
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: dir in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 122
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: file_name in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 136
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: file_delete in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 137
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 139
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 141
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined index: pass in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 142
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  Undefined variable: urun in /home/sonseshaber/tolgahantoros.com.tr/src/html/siparis-detay.php on line 65
+[02-Feb-2024 14:00:18 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/html/footer.php on line 3
+[15-Feb-2024 21:46:12 Europe/Minsk] PHP Notice:  session_start(): A session had already been started - ignoring in /home/sonseshaber/tolgahantoros.com.tr/src/netting/class.crud.php on line 3
